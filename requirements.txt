@@ -6,6 +6,7 @@ dvc
 dvc[gdrive]
 sklearn
 pandas
+numpy
 pytest
 tox
 flake8
